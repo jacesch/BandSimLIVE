@@ -4,7 +4,7 @@
 
 BandSimLIVE is a single-user virtual reality drumming prototype built in Unity. It maps Meta Quest controller interactions and strike velocities to MIDI messages, triggering drum sounds in Ableton Live through C# and DryWetMIDI.
 
-Developed by **Jacey Schell** for **MUE251: Electronic Production Techniques**, the project explores how virtual instruments can support expressive music performance without a physical drum kit.
+Developed by **Jacey Schell** for **MUE251: Electronic Production Techniques** and **MUE540: Music in the Metaverse**, the project explores how virtual instruments can support expressive music performance without a physical drum kit.
 
 ## Overview
 
