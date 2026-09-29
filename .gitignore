@@ -123,3 +123,6 @@ InitTestScene*.unity*
 ._*
 [Dd]s_[Ss]tore
 
+# Ignore Burst Compiler debug symbols folders
+*BurstDebugInformation_DoNotShip/
+
